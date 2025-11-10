@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "thoi_gian_xuat": "2025-09-25T14:07:45.620284",
+    "phan_mem": "HE THONG DEM KHOAI TAY & KIEM TRA CHAT LUONG PRO",
+    "phien_ban": "2.1 DA SUA LOGIC CHAT LUONG",
+    "che_do_xu_ly": "kiem_tra_chat_luong"
+  },
+  "thong_tin_nguon": {
+    "loai_dau_vao": "file",
+    "duong_dan_nguon": "D:\\Dem_Khoai\\Data_test\\potato.mp4",
+    "kich_thuoc_khung_hinh": [
+      1920,
+      1080
+    ]
+  },
+  "tham_so_xu_ly": {
+    "duong_dan_model": "D:/Dem_Khoai/Mo_Hinh_Da_HL/best_ChatLuong3.pt",
+    "nguong_tin_cay": 0.5,
+    "nguong_iou": 0.5,
+    "nguong_chat_luong_phan_tram": 70.0,
+    "diem_vung": [
+      [
+        272,
+        753
+      ],
+      [
+        301,
+        156
+      ],
+      [
+        1424,
+        176
+      ],
+      [
+        1395,
+        785
+      ],
+      [
+        1133,
+        778
+      ],
+      [
+        1133,
+        671
+      ],
+      [
+        1026,
+        673
+      ],
+      [
+        456,
+        666
+      ],
+      [
+        458,
+        768
+      ]
+    ],
+    "bo_qua_khung_hinh": 2
+  },
+  "ket_qua": {
+    "tong_so_dem": 344,
+    "khung_hinh_da_xu_ly": 291,
+    "thoi_gian_xu_ly_giay": 39.5,
+    "fps_trung_binh": 7.37
+  },
+  "phan_tich_chat_luong": {
+    "tom_tat": {
+      "chat_luong_tot": 308,
+      "chat_luong_kem": 36,
+      "ti_le_tot_phan_tram": 89.5,
+      "ti_le_kem_phan_tram": 10.5,
+      "phan_tram_chat_luong_trung_binh": 

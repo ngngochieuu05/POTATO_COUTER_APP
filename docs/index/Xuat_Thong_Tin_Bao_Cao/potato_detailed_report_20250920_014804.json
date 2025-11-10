@@ -1,0 +1,63 @@
+{
+  "summary": {
+    "total_potatoes": 350,
+    "processing_time": 1758307613.780829,
+    "frames_processed": 291,
+    "completion_time": "2025-09-20T01:48:04.274101"
+  },
+  "configuration": {
+    "model_path": "best.pt",
+    "video_source": "potato.mp4",
+    "confidence_threshold": 0.5,
+    "iou_threshold": 0.5,
+    "frame_skip": 2,
+    "target_size": [
+      640,
+      640
+    ],
+    "region_points": [
+      [
+        272,
+        753
+      ],
+      [
+        301,
+        156
+      ],
+      [
+        1424,
+        176
+      ],
+      [
+        1395,
+        785
+      ],
+      [
+        1133,
+        778
+      ],
+      [
+        1133,
+        671
+      ],
+      [
+        1026,
+        673
+      ],
+      [
+        456,
+        666
+      ],
+      [
+        458,
+        768
+      ]
+    ]
+  },
+  "video_info": {
+    "source": "potato.mp4",
+    "model": "best.pt"
+  },
+  "tracking_data": {
+    "tracked_ids": [
+      

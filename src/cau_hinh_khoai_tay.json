@@ -1,0 +1,54 @@
+{
+  "duong_dan_model": " ",
+  "nguon_video": " ",
+  "nguon_anh": " ",
+  "nguong_tin_cay": 0.5,
+  "nguong_iou": 0.5,
+  "nguong_chat_luong": 0.7,
+  "bo_qua_khung_hinh": 2,
+  "kich_thuoc_muc_tieu": [
+    640,
+    640
+  ],
+  "diem_vung": [
+    [
+      272,
+      753
+    ],
+    [
+      301,
+      156
+    ],
+    [
+      1424,
+      176
+    ],
+    [
+      1395,
+      785
+    ],
+    [
+      1133,
+      778
+    ],
+    [
+      1133,
+      671
+    ],
+    [
+      1026,
+      673
+    ],
+    [
+      456,
+      666
+    ],
+    [
+      458,
+      768
+    ]
+  ],
+  "chi_so_camera": 0,
+  "hien_toa_do": true,
+  "duong_dan_xuat": ""
+}

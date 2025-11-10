@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "total_potatoes": 382,
+    "processing_time_seconds": 173.73700284957886,
+    "frames_processed": 291,
+    "completion_time": "2025-09-21T16:10:09.757489",
+    "input_source": "file"
+  },
+  "configuration": {
+    "model_path": "D:\\Dem_Khoai\\Mo_Hinh_Da_HL\\best1.pt",
+    "video_source": "D:\\Dem_Khoai\\Data_test\\potato.mp4",
+    "confidence_threshold": 0.35,
+    "iou_threshold": 0.25,
+    "frame_skip": 2,
+    "target_size": [
+      640,
+      640
+    ],
+    "region_points": [
+      [
+        272,
+        753
+      ],
+      [
+        301,
+        156
+      ],
+      [
+        1424,
+        176
+      ],
+      [
+        1395,
+        785
+      ],
+      [
+        1133,
+        778
+      ],
+      [
+        1133,
+        671
+      ],
+      [
+        1026,
+        673
+      ],
+      [
+        456,
+        666
+      ],
+      [
+        458,
+        768
+      ]
+    ],
+    "camera_index": 0,
+    "show_coordinates": true,
+    "coordinate_color": [
+      0,
+      255,
+      0
+    ],
+    "region_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  "input_info": {
+    "source": "D:\\Dem_Khoai\\Data_test\\potato.mp4",
+    "model": "D:\\Dem_Khoai\\Mo_Hinh_Da_HL\\best1.pt"
+  },
+  "tracking_data": {
+    "tracked_ids": [
+      

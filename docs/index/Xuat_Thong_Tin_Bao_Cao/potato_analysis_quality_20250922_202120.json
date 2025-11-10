@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "export_time": "2025-09-22T20:21:20.699038",
+    "software": "Potato Counter & Quality Inspector Pro",
+    "version": "2.0 Optimized",
+    "processing_mode": "quality_check"
+  },
+  "source_info": {
+    "input_type": "file",
+    "source_path": "D:/Dem_Khoai/Data_test/potato.mp4",
+    "frame_size": [
+      1920,
+      1080
+    ]
+  },
+  "processing_parameters": {
+    "model_path": "D:/Dem_Khoai/Mo_Hinh_Da_HL/best_ChatLuong2.pt",
+    "confidence_threshold": 0.35,
+    "iou_threshold": 0.25,
+    "quality_threshold": 0.5,
+    "region_points": [
+      [
+        301,
+        169
+      ],
+      [
+        305,
+        768
+      ],
+      [
+        460,
+        766
+      ],
+      [
+        455,
+        666
+      ],
+      [
+        1127,
+        660
+      ],
+      [
+        1132,
+        776
+      ],
+      [
+        1443,
+        785
+      ],
+      [
+        1453,
+        190
+      ],
+      [
+        303,
+        173
+      ]
+    ],
+    "frame_skip": 2
+  },
+  "results": {
+    "total_count": 0,
+    "frames_processed": 291,
+    "processing_time_seconds": 24.68,
+    "avg_fps": 11.79
+  },
+  "quality_analysis": {
+    "summary": {
+      "good_quality": 0,
+      "bad_quality": 0,
+      "good_rate_percent": 0.0,
+      "bad_rate_percent": 0.0
+    },
+    "classification_method": {
+      "threshold": 0.5,
+      "criteria": "Confidence >= threshold = GOOD, < threshold = BAD"
+    },
+    "detailed_results": []
+  }
+}

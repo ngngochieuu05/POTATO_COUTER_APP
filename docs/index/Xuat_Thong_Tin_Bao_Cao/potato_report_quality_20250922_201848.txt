@@ -1,0 +1,27 @@
+==================================================
+BÁO CÁO PHÂN TÍCH KHOAI TÂY
+==================================================
+Thời gian: 2025-09-22 20:18:48
+
+Nguồn dữ liệu: Video: potato1.mp4
+Chế độ xử lý: Kiểm tra chất lượng
+
+THỐNG KÊ XỬ LÝ:
+- Tổng số đối tượng: 0
+- Frames đã xử lý: 212
+- Thời gian xử lý: 25.16 giây
+- FPS trung bình: 8.43
+
+PHÂN TÍCH CHẤT LƯỢNG:
+- Chất lượng TỐT: 0 (0.0%)
+- Chất lượng KÉM: 0 (0.0%)
+
+Ngưỡng chất lượng: 0.60
+(Confidence ≥ ngưỡng = TỐT, < ngưỡng = KÉM)
+
+THAM SỐ KỸ THUẬT:
+- Model: best_ChatLuong2.pt
+- Confidence threshold: 0.50
+- IOU threshold: 0.50
+- Vùng đếm: 5 điểm
+- Kích thước khung hình: 1920x1080

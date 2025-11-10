@@ -1,0 +1,27 @@
+==================================================
+BÁO CÁO PHÂN TÍCH KHOAI TÂY
+==================================================
+Thời gian: 2025-09-22 20:20:00
+
+Nguồn dữ liệu: Ảnh: 001-002_A_JPG.rf.aaff197da1462f77a28efba0312e3ed4.jpg
+Chế độ xử lý: Kiểm tra chất lượng
+
+THỐNG KÊ XỬ LÝ:
+- Tổng số đối tượng: 0
+- Frames đã xử lý: 1
+- Thời gian xử lý: 1.34 giây
+- FPS trung bình: 0.75
+
+PHÂN TÍCH CHẤT LƯỢNG:
+- Chất lượng TỐT: 0 (0.0%)
+- Chất lượng KÉM: 0 (0.0%)
+
+Ngưỡng chất lượng: 0.50
+(Confidence ≥ ngưỡng = TỐT, < ngưỡng = KÉM)
+
+THAM SỐ KỸ THUẬT:
+- Model: best_ChatLuong2.pt
+- Confidence threshold: 0.50
+- IOU threshold: 0.50
+- Vùng đếm: 5 điểm
+- Kích thước khung hình: 5184x3456

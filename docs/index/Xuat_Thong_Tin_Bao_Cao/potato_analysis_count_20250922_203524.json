@@ -1,0 +1,2461 @@
+{
+  "metadata": {
+    "export_time": "2025-09-22T20:35:24.017279",
+    "software": "Potato Counter & Quality Inspector Pro",
+    "version": "2.0 Optimized",
+    "processing_mode": "counting"
+  },
+  "source_info": {
+    "input_type": "file",
+    "source_path": "D:/Dem_Khoai/Data_test/potato1.mp4",
+    "frame_size": [
+      1920,
+      1080
+    ]
+  },
+  "processing_parameters": {
+    "model_path": "D:/Dem_Khoai/Mo_Hinh_Da_HL/best1_DemKhoai1.pt",
+    "confidence_threshold": 0.35,
+    "iou_threshold": 0.25,
+    "quality_threshold": 0.5,
+    "region_points": [
+      [
+        59,
+        376
+      ],
+      [
+        574,
+        171
+      ],
+      [
+        817,
+        415
+      ],
+      [
+        276,
+        647
+      ],
+      [
+        63,
+        378
+      ]
+    ],
+    "frame_skip": 2
+  },
+  "results": {
+    "total_count": 172,
+    "frames_processed": 212,
+    "processing_time_seconds": 31.9,
+    "avg_fps": 6.65
+  },
+  "detection_details": [
+    {
+      "tracker_id": 7,
+      "center_coordinates": [
+        187,
+        308
+      ],
+      "bounding_box": [
+        120,
+        274,
+        254,
+        343
+      ],
+      "last_detection_time": 1758548094.2331007
+    },
+    {
+      "tracker_id": 12,
+      "center_coordinates": [
+        243,
+        247
+      ],
+      "bounding_box": [
+        162,
+        184,
+        323,
+        310
+      ],
+      "last_detection_time": 1758548093.9401784
+    },
+    {
+      "tracker_id": 14,
+      "center_coordinates": [
+        98,
+        333
+      ],
+      "bounding_box": [
+        45,
+        291,
+        152,
+        375
+      ],
+      "last_detection_time": 1758548093.4777098
+    },
+    {
+      "tracker_id": 17,
+      "center_coordinates": [
+        121,
+        312
+      ],
+      "bounding_box": [
+        72,
+        268,
+        171,
+        356
+      ],
+      "last_detection_time": 1758548093.9401815
+    },
+    {
+      "tracker_id": 19,
+      "center_coordinates": [
+        322,
+        227
+      ],
+      "bounding_box": [
+        277,
+        177,
+        366,
+        277
+      ],
+      "last_detection_time": 1758548094.2330897
+    },
+    {
+      "tracker_id": 30,
+      "center_coordinates": [
+        531,
+        305
+      ],
+      "bounding_box": [
+        485,
+        265,
+        578,
+        344
+      ],
+      "last_detection_time": 1758548092.4071114
+    },
+    {
+      "tracker_id": 32,
+      "center_coordinates": [
+        325,
+        249
+      ],
+      "bounding_box": [
+        270,
+        213,
+        381,
+        285
+      ],
+      "last_detection_time": 1758548092.856202
+    },
+    {
+      "tracker_id": 13,
+      "center_coordinates": [
+        123,
+        327
+      ],
+      "bounding_box": [
+        68,
+        292,
+        179,
+        362
+      ],
+      "last_detection_time": 1758548094.5385134
+    },
+    {
+      "tracker_id": 26,
+      "center_coordinates": [
+        359,
+        229
+      ],
+      "bounding_box": [
+        305,
+        188,
+        412,
+        271
+      ],
+      "last_detection_time": 1758548094.6827435
+    },
+    {
+      "tracker_id": 39,
+      "center_coordinates": [
+        211,
+        280
+      ],
+      "bounding_box": [
+        136,
+        243,
+        285,
+        318
+      ],
+      "last_detection_time": 1758548092.7108932
+    },
+    {
+      "tracker_id": 9,
+      "center_coordinates": [
+        103,
+        332
+      ],
+      "bounding_box": [
+        55,
+        300,
+        150,
+        364
+      ],
+      "last_detection_time": 1758548094.9800613
+    },
+    {
+      "tracker_id": 20,
+      "center_coordinates": [
+        208,
+        345
+      ],
+      "bounding_box": [
+        166,
+        310,
+        250,
+        381
+      ],
+      "last_detection_time": 1758548094.8296807
+    },
+    {
+      "tracker_id": 10,
+      "center_coordinates": [
+        256,
+        300
+      ],
+      "bounding_box": [
+        213,
+        274,
+        299,
+        327
+      ],
+      "last_detection_time": 1758548095.1259649
+    },
+    {
+      "tracker_id": 83,
+      "center_coordinates": [
+        424,
+        192
+      ],
+      "bounding_box": [
+        381,
+        151,
+        467,
+        233
+      ],
+      "last_detection_time": 1758548093.4777133
+    },
+    {
+      "tracker_id": 22,
+      "center_coordinates": [
+        397,
+        216
+      ],
+      "bounding_box": [
+        331,
+        184,
+        463,
+        247
+      ],
+      "last_detection_time": 1758548095.583791
+    },
+    {
+      "tracker_id": 5,
+      "center_coordinates": [
+        121,
+        325
+      ],
+      "bounding_box": [
+        73,
+        288,
+        168,
+        362
+      ],
+      "last_detection_time": 1758548095.5837953
+    },
+    {
+      "tracker_id": 27,
+      "center_coordinates": [
+        374,
+        216
+      ],
+      "bounding_box": [
+        330,
+        181,
+        419,
+        252
+      ],
+      "last_detection_time": 1758548097.0846903
+    },
+    {
+      "tracker_id": 1,
+      "center_coordinates": [
+        261,
+        295
+      ],
+      "bounding_box": [
+        207,
+        266,
+        316,
+        325
+      ],
+      "last_detection_time": 1758548095.583806
+    },
+    {
+      "tracker_id": 4,
+      "center_coordinates": [
+        202,
+        283
+      ],
+      "bounding_box": [
+        141,
+        243,
+        263,
+        322
+      ],
+      "last_detection_time": 1758548096.1790893
+    },
+    {
+      "tracker_id": 23,
+      "center_coordinates": [
+        364,
+        225
+      ],
+      "bounding_box": [
+        319,
+        189,
+        409,
+        260
+      ],
+      "last_detection_time": 1758548096.1790926
+    },
+    {
+      "tracker_id": 8,
+      "center_coordinates": [
+        228,
+        287
+      ],
+      "bounding_box": [
+        173,
+        237,
+        282,
+        336
+      ],
+      "last_detection_time": 1758548096.7827697
+    },
+    {
+      "tracker_id": 15,
+      "center_coordinates": [
+        108,
+        328
+      ],
+      "bounding_box": [
+        33,
+        288,
+        182,
+        368
+      ],
+      "last_detection_time": 1758548096.3328798
+    },
+    {
+      "tracker_id": 114,
+      "center_coordinates": [
+        344,
+        436
+      ],
+      "bounding_box": [
+        286,
+        383,
+        401,
+        490
+      ],
+      "last_detection_time": 1758548095.5837977
+    },
+    {
+      "tracker_id": 42,
+      "center_coordinates": [
+        297,
+        487
+      ],
+      "bounding_box": [
+        247,
+        451,
+        347,
+        524
+      ],
+      "last_detection_time": 1758548096.0288777
+    },
+    {
+      "tracker_id": 306,
+      "center_coordinates": [
+        334,
+        238
+      ],
+      "bounding_box": [
+        285,
+        198,
+        383,
+        279
+      ],
+      "last_detection_time": 1758548097.6793842
+    },
+    {
+      "tracker_id": 2,
+      "center_coordinates": [
+        317,
+        394
+      ],
+      "bounding_box": [
+        251,
+        338,
+        383,
+        450
+      ],
+      "last_detection_time": 1758548095.8862894
+    },
+    {
+      "tracker_id": 242,
+      "center_coordinates": [
+        258,
+        552
+      ],
+      "bounding_box": [
+        212,
+        520,
+        304,
+        583
+      ],
+      "last_detection_time": 1758548096.0288715
+    },
+    {
+      "tracker_id": 106,
+      "center_coordinates": [
+        150,
+        350
+      ],
+      "bounding_box": [
+        88,
+        308,
+        212,
+        393
+      ],
+      "last_detection_time": 1758548097.6794024
+    },
+    {
+      "tracker_id": 356,
+      "center_coordinates": [
+        228,
+        274
+      ],
+      "bounding_box": [
+        188,
+        235,
+        267,
+        313
+      ],
+      "last_detection_time": 1758548098.125762
+    },
+    {
+      "tracker_id": 281,
+      "center_coordinates": [
+        345,
+        508
+      ],
+      "bounding_box": [
+        295,
+        467,
+        394,
+        549
+      ],
+      "last_detection_time": 1758548097.0846932
+    },
+    {
+      "tracker_id": 74,
+      "center_coordinates": [
+        117,
+        324
+      ],
+      "bounding_box": [
+        58,
+        292,
+        175,
+        356
+      ],
+      "last_detection_time": 1758548098.4213994
+    },
+    {
+      "tracker_id": 51,
+      "center_coordinates": [
+        222,
+        461
+      ],
+      "bounding_box": [
+        184,
+        426,
+        260,
+        497
+      ],
+      "last_detection_time": 1758548097.6793888
+    },
+    {
+      "tracker_id": 321,
+      "center_coordinates": [
+        212,
+        404
+      ],
+      "bounding_box": [
+        163,
+        374,
+        262,
+        434
+      ],
+      "last_detection_time": 1758548098.4213955
+    },
+    {
+      "tracker_id": 428,
+      "center_coordinates": [
+        68,
+        335
+      ],
+      "bounding_box": [
+        7,
+        299,
+        129,
+        372
+      ],
+      "last_detection_time": 1758548097.2287674
+    },
+    {
+      "tracker_id": 151,
+      "center_coordinates": [
+        227,
+        479
+      ],
+      "bounding_box": [
+        145,
+        443,
+        309,
+        515
+      ],
+      "last_detection_time": 1758548097.2287695
+    },
+    {
+      "tracker_id": 441,
+      "center_coordinates": [
+        342,
+        459
+      ],
+      "bounding_box": [
+        293,
+        423,
+        392,
+        495
+      ],
+      "last_detection_time": 1758548098.1257548
+    },
+    {
+      "tracker_id": 193,
+      "center_coordinates": [
+        315,
+        407
+      ],
+      "bounding_box": [
+        238,
+        363,
+        392,
+        451
+      ],
+      "last_detection_time": 1758548097.9827247
+    },
+    {
+      "tracker_id": 260,
+      "center_coordinates": [
+        198,
+        387
+      ],
+      "bounding_box": [
+        149,
+        341,
+        246,
+        434
+      ],
+      "last_detection_time": 1758548099.0239391
+    },
+    {
+      "tracker_id": 154,
+      "center_coordinates": [
+        303,
+        326
+      ],
+      "bounding_box": [
+        258,
+        288,
+        349,
+        364
+      ],
+      "last_detection_time": 1758548099.4510672
+    },
+    {
+      "tracker_id": 136,
+      "center_coordinates": [
+        119,
+        404
+      ],
+      "bounding_box": [
+        68,
+        370,
+        169,
+        438
+      ],
+      "last_detection_time": 1758548098.4213924
+    },
+    {
+      "tracker_id": 291,
+      "center_coordinates": [
+        202,
+        390
+      ],
+      "bounding_box": [
+        138,
+        340,
+        267,
+        440
+      ],
+      "last_detection_time": 1758548099.45106
+    },
+    {
+      "tracker_id": 367,
+      "center_coordinates": [
+        325,
+        386
+      ],
+      "bounding_box": [
+        238,
+        322,
+        412,
+        450
+      ],
+      "last_detection_time": 1758548099.602447
+    },
+    {
+      "tracker_id": 268,
+      "center_coordinates": [
+        227,
+        475
+      ],
+      "bounding_box": [
+        182,
+        432,
+        272,
+        518
+      ],
+      "last_detection_time": 1758548099.4510648
+    },
+    {
+      "tracker_id": 44,
+      "center_coordinates": [
+        312,
+        318
+      ],
+      "bounding_box": [
+        271,
+        277,
+        354,
+        360
+      ],
+      "last_detection_time": 1758548100.4693854
+    },
+    {
+      "tracker_id": 256,
+      "center_coordinates": [
+        144,
+        334
+      ],
+      "bounding_box": [
+        59,
+        260,
+        228,
+        407
+      ],
+      "last_detection_time": 1758548100.7637765
+    },
+    {
+      "tracker_id": 390,
+      "center_coordinates": [
+        284,
+        441
+      ],
+      "bounding_box": [
+        218,
+        401,
+        351,
+        481
+      ],
+      "last_detection_time": 1758548099.8890908
+    },
+    {
+      "tracker_id": 566,
+      "center_coordinates": [
+        491,
+        420
+      ],
+      "bounding_box": [
+        447,
+        383,
+        534,
+        457
+      ],
+      "last_detection_time": 1758548101.056001
+    },
+    {
+      "tracker_id": 492,
+      "center_coordinates": [
+        465,
+        489
+      ],
+      "bounding_box": [
+        389,
+        446,
+        542,
+        533
+      ],
+      "last_detection_time": 1758548099.602445
+    },
+    {
+      "tracker_id": 332,
+      "center_coordinates": [
+        404,
+        550
+      ],
+      "bounding_box": [
+        355,
+        512,
+        452,
+        588
+      ],
+      "last_detection_time": 1758548099.4510627
+    },
+    {
+      "tracker_id": 409,
+      "center_coordinates": [
+        363,
+        454
+      ],
+      "bounding_box": [
+        306,
+        412,
+        419,
+        497
+      ],
+      "last_detection_time": 1758548100.321934
+    },
+    {
+      "tracker_id": 362,
+      "center_coordinates": [
+        199,
+        294
+      ],
+      "bounding_box": [
+        144,
+        258,
+        255,
+        330
+      ],
+      "last_detection_time": 1758548102.0839589
+    },
+    {
+      "tracker_id": 483,
+      "center_coordinates": [
+        124,
+        326
+      ],
+      "bounding_box": [
+        74,
+        289,
+        174,
+        364
+      ],
+      "last_detection_time": 1758548102.0839622
+    },
+    {
+      "tracker_id": 29,
+      "center_coordinates": [
+        287,
+        498
+      ],
+      "bounding_box": [
+        224,
+        450,
+        349,
+        546
+      ],
+      "last_detection_time": 1758548100.3219383
+    },
+    {
+      "tracker_id": 407,
+      "center_coordinates": [
+        364,
+        459
+      ],
+      "bounding_box": [
+        316,
+        427,
+        412,
+        490
+      ],
+      "last_detection_time": 1758548101.0559986
+    },
+    {
+      "tracker_id": 723,
+      "center_coordinates": [
+        414,
+        194
+      ],
+      "bounding_box": [
+        358,
+        154,
+        470,
+        235
+      ],
+      "last_detection_time": 1758548103.4135728
+    },
+    {
+      "tracker_id": 605,
+      "center_coordinates": [
+        151,
+        350
+      ],
+      "bounding_box": [
+        112,
+        311,
+        191,
+        390
+      ],
+      "last_detection_time": 1758548102.9738894
+    },
+    {
+      "tracker_id": 681,
+      "center_coordinates": [
+        191,
+        320
+      ],
+      "bounding_box": [
+        150,
+        285,
+        231,
+        355
+      ],
+      "last_detection_time": 1758548103.2618814
+    },
+    {
+      "tracker_id": 427,
+      "center_coordinates": [
+        209,
+        295
+      ],
+      "bounding_box": [
+        156,
+        266,
+        262,
+        325
+      ],
+      "last_detection_time": 1758548104.3171775
+    },
+    {
+      "tracker_id": 845,
+      "center_coordinates": [
+        261,
+        471
+      ],
+      "bounding_box": [
+        209,
+        428,
+        312,
+        514
+      ],
+      "last_detection_time": 1758548105.9535472
+    },
+    {
+      "tracker_id": 329,
+      "center_coordinates": [
+        411,
+        512
+      ],
+      "bounding_box": [
+        338,
+        453,
+        484,
+        571
+      ],
+      "last_detection_time": 1758548103.5615828
+    },
+    {
+      "tracker_id": 700,
+      "center_coordinates": [
+        283,
+        431
+      ],
+      "bounding_box": [
+        228,
+        388,
+        338,
+        475
+      ],
+      "last_detection_time": 1758548103.7253697
+    },
+    {
+      "tracker_id": 141,
+      "center_coordinates": [
+        337,
+        273
+      ],
+      "bounding_box": [
+        283,
+        241,
+        390,
+        306
+      ],
+      "last_detection_time": 1758548105.2101426
+    },
+    {
+      "tracker_id": 748,
+      "center_coordinates": [
+        182,
+        288
+      ],
+      "bounding_box": [
+        126,
+        245,
+        237,
+        331
+      ],
+      "last_detection_time": 1758548105.6491582
+    },
+    {
+      "tracker_id": 680,
+      "center_coordinates": [
+        131,
+        394
+      ],
+      "bounding_box": [
+        55,
+        355,
+        207,
+        433
+      ],
+      "last_detection_time": 1758548105.0670927
+    },
+    {
+      "tracker_id": 920,
+      "center_coordinates": [
+        332,
+        234
+      ],
+      "bounding_box": [
+        281,
+        198,
+        383,
+        270
+      ],
+      "last_detection_time": 1758548117.3355634
+    },
+    {
+      "tracker_id": 756,
+      "center_coordinates": [
+        224,
+        320
+      ],
+      "bounding_box": [
+        176,
+        278,
+        272,
+        363
+      ],
+      "last_detection_time": 1758548105.8025918
+    },
+    {
+      "tracker_id": 726,
+      "center_coordinates": [
+        133,
+        322
+      ],
+      "bounding_box": [
+        76,
+        280,
+        190,
+        363
+      ],
+      "last_detection_time": 1758548106.0962806
+    },
+    {
+      "tracker_id": 795,
+      "center_coordinates": [
+        272,
+        249
+      ],
+      "bounding_box": [
+        210,
+        206,
+        334,
+        293
+      ],
+      "last_detection_time": 1758548106.382123
+    },
+    {
+      "tracker_id": 993,
+      "center_coordinates": [
+        440,
+        299
+      ],
+      "bounding_box": [
+        397,
+        252,
+        483,
+        345
+      ],
+      "last_detection_time": 1758548108.9057202
+    },
+    {
+      "tracker_id": 958,
+      "center_coordinates": [
+        281,
+        269
+      ],
+      "bounding_box": [
+        230,
+        236,
+        332,
+        302
+      ],
+      "last_detection_time": 1758548106.9752293
+    },
+    {
+      "tracker_id": 923,
+      "center_coordinates": [
+        329,
+        516
+      ],
+      "bounding_box": [
+        281,
+        455,
+        377,
+        578
+      ],
+      "last_detection_time": 1758548105.351715
+    },
+    {
+      "tracker_id": 997,
+      "center_coordinates": [
+        431,
+        198
+      ],
+      "bounding_box": [
+        380,
+        159,
+        481,
+        238
+      ],
+      "last_detection_time": 1758548107.1241345
+    },
+    {
+      "tracker_id": 848,
+      "center_coordinates": [
+        250,
+        278
+      ],
+      "bounding_box": [
+        208,
+        240,
+        292,
+        315
+      ],
+      "last_detection_time": 1758548107.4160197
+    },
+    {
+      "tracker_id": 722,
+      "center_coordinates": [
+        194,
+        325
+      ],
+      "bounding_box": [
+        148,
+        268,
+        240,
+        383
+      ],
+      "last_detection_time": 1758548106.8249762
+    },
+    {
+      "tracker_id": 990,
+      "center_coordinates": [
+        144,
+        314
+      ],
+      "bounding_box": [
+        92,
+        251,
+        195,
+        376
+      ],
+      "last_detection_time": 1758548107.7040393
+    },
+    {
+      "tracker_id": 399,
+      "center_coordinates": [
+        426,
+        204
+      ],
+      "bounding_box": [
+        373,
+        166,
+        480,
+        242
+      ],
+      "last_detection_time": 1758548108.3089454
+    },
+    {
+      "tracker_id": 872,
+      "center_coordinates": [
+        301,
+        246
+      ],
+      "bounding_box": [
+        235,
+        200,
+        368,
+        293
+      ],
+      "last_detection_time": 1758548108.3089385
+    },
+    {
+      "tracker_id": 954,
+      "center_coordinates": [
+        216,
+        280
+      ],
+      "bounding_box": [
+        141,
+        238,
+        290,
+        322
+      ],
+      "last_detection_time": 1758548108.6017191
+    },
+    {
+      "tracker_id": 851,
+      "center_coordinates": [
+        127,
+        332
+      ],
+      "bounding_box": [
+        81,
+        297,
+        173,
+        368
+      ],
+      "last_detection_time": 1758548108.162897
+    },
+    {
+      "tracker_id": 474,
+      "center_coordinates": [
+        340,
+        236
+      ],
+      "bounding_box": [
+        293,
+        202,
+        387,
+        270
+      ],
+      "last_detection_time": 1758548109.0583682
+    },
+    {
+      "tracker_id": 874,
+      "center_coordinates": [
+        207,
+        308
+      ],
+      "bounding_box": [
+        150,
+        263,
+        265,
+        354
+      ],
+      "last_detection_time": 1758548108.9057343
+    },
+    {
+      "tracker_id": 1046,
+      "center_coordinates": [
+        305,
+        241
+      ],
+      "bounding_box": [
+        257,
+        205,
+        352,
+        277
+      ],
+      "last_detection_time": 1758548109.4944413
+    },
+    {
+      "tracker_id": 867,
+      "center_coordinates": [
+        228,
+        288
+      ],
+      "bounding_box": [
+        160,
+        259,
+        296,
+        316
+      ],
+      "last_detection_time": 1758548109.4944372
+    },
+    {
+      "tracker_id": 497,
+      "center_coordinates": [
+        496,
+        372
+      ],
+      "bounding_box": [
+        456,
+        323,
+        537,
+        421
+      ],
+      "last_detection_time": 1758548108.308941
+    },
+    {
+      "tracker_id": 34,
+      "center_coordinates": [
+        438,
+        206
+      ],
+      "bounding_box": [
+        382,
+        169,
+        494,
+        244
+      ],
+      "last_detection_time": 1758548109.9431922
+    },
+    {
+      "tracker_id": 421,
+      "center_coordinates": [
+        263,
+        357
+      ],
+      "bounding_box": [
+        204,
+        318,
+        322,
+        397
+      ],
+      "last_detection_time": 1758548109.4944453
+    },
+    {
+      "tracker_id": 464,
+      "center_coordinates": [
+        252,
+        275
+      ],
+      "bounding_box": [
+        188,
+        234,
+        316,
+        315
+      ],
+      "last_detection_time": 1758548110.3918474
+    },
+    {
+      "tracker_id": 1062,
+      "center_coordinates": [
+        236,
+        427
+      ],
+      "bounding_box": [
+        191,
+        385,
+        280,
+        469
+      ],
+      "last_detection_time": 1758548111.442993
+    },
+    {
+      "tracker_id": 1083,
+      "center_coordinates": [
+        249,
+        269
+      ],
+      "bounding_box": [
+        202,
+        228,
+        297,
+        311
+      ],
+      "last_detection_time": 1758548110.992896
+    },
+    {
+      "tracker_id": 915,
+      "center_coordinates": [
+        182,
+        303
+      ],
+      "bounding_box": [
+        114,
+        265,
+        250,
+        340
+      ],
+      "last_detection_time": 1758548111.2995894
+    },
+    {
+      "tracker_id": 1122,
+      "center_coordinates": [
+        375,
+        415
+      ],
+      "bounding_box": [
+        317,
+        378,
+        433,
+        453
+      ],
+      "last_detection_time": 1758548110.2427416
+    },
+    {
+      "tracker_id": 577,
+      "center_coordinates": [
+        288,
+        249
+      ],
+      "bounding_box": [
+        221,
+        197,
+        354,
+        301
+      ],
+      "last_detection_time": 1758548111.4429982
+    },
+    {
+      "tracker_id": 1270,
+      "center_coordinates": [
+        192,
+        302
+      ],
+      "bounding_box": [
+        143,
+        263,
+        241,
+        342
+      ],
+      "last_detection_time": 1758548111.8885612
+    },
+    {
+      "tracker_id": 1268,
+      "center_coordinates": [
+        375,
+        331
+      ],
+      "bounding_box": [
+        332,
+        265,
+        418,
+        396
+      ],
+      "last_detection_time": 1758548111.4430008
+    },
+    {
+      "tracker_id": 1243,
+      "center_coordinates": [
+        246,
+        306
+      ],
+      "bounding_box": [
+        190,
+        264,
+        301,
+        348
+      ],
+      "last_detection_time": 1758548112.1938446
+    },
+    {
+      "tracker_id": 1220,
+      "center_coordinates": [
+        181,
+        301
+      ],
+      "bounding_box": [
+        134,
+        258,
+        227,
+        345
+      ],
+      "last_detection_time": 1758548112.639505
+    },
+    {
+      "tracker_id": 1369,
+      "center_coordinates": [
+        284,
+        345
+      ],
+      "bounding_box": [
+        218,
+        299,
+        351,
+        391
+      ],
+      "last_detection_time": 1758548122.5962565
+    },
+    {
+      "tracker_id": 1231,
+      "center_coordinates": [
+        337,
+        348
+      ],
+      "bounding_box": [
+        289,
+        314,
+        384,
+        382
+      ],
+      "last_detection_time": 1758548112.4878278
+    },
+    {
+      "tracker_id": 1404,
+      "center_coordinates": [
+        360,
+        497
+      ],
+      "bounding_box": [
+        289,
+        453,
+        430,
+        541
+      ],
+      "last_detection_time": 1758548123.9202538
+    },
+    {
+      "tracker_id": 1417,
+      "center_coordinates": [
+        599,
+        304
+      ],
+      "bounding_box": [
+        556,
+        274,
+        642,
+        333
+      ],
+      "last_detection_time": 1758548111.4429874
+    },
+    {
+      "tracker_id": 1441,
+      "center_coordinates": [
+        287,
+        247
+      ],
+      "bounding_box": [
+        238,
+        202,
+        337,
+        292
+      ],
+      "last_detection_time": 1758548112.934225
+    },
+    {
+      "tracker_id": 1449,
+      "center_coordinates": [
+        189,
+        284
+      ],
+      "bounding_box": [
+        121,
+        243,
+        256,
+        326
+      ],
+      "last_detection_time": 1758548113.3923502
+    },
+    {
+      "tracker_id": 1030,
+      "center_coordinates": [
+        354,
+        304
+      ],
+      "bounding_box": [
+        299,
+        268,
+        409,
+        340
+      ],
+      "last_detection_time": 1758548113.5474496
+    },
+    {
+      "tracker_id": 1338,
+      "center_coordinates": [
+        204,
+        267
+      ],
+      "bounding_box": [
+        147,
+        206,
+        261,
+        329
+      ],
+      "last_detection_time": 1758548114.3023775
+    },
+    {
+      "tracker_id": 1107,
+      "center_coordinates": [
+        124,
+        333
+      ],
+      "bounding_box": [
+        86,
+        296,
+        162,
+        371
+      ],
+      "last_detection_time": 1758548113.697874
+    },
+    {
+      "tracker_id": 633,
+      "center_coordinates": [
+        329,
+        238
+      ],
+      "bounding_box": [
+        288,
+        197,
+        371,
+        278
+      ],
+      "last_detection_time": 1758548114.4547648
+    },
+    {
+      "tracker_id": 1169,
+      "center_coordinates": [
+        163,
+        303
+      ],
+      "bounding_box": [
+        92,
+        264,
+        233,
+        342
+      ],
+      "last_detection_time": 1758548114.4547582
+    },
+    {
+      "tracker_id": 1380,
+      "center_coordinates": [
+        250,
+        292
+      ],
+      "bounding_box": [
+        214,
+        258,
+        286,
+        326
+      ],
+      "last_detection_time": 1758548114.4547625
+    },
+    {
+      "tracker_id": 1396,
+      "center_coordinates": [
+        204,
+        325
+      ],
+      "bounding_box": [
+        162,
+        291,
+        246,
+        360
+      ],
+      "last_detection_time": 1758548114.7613342
+    },
+    {
+      "tracker_id": 1394,
+      "center_coordinates": [
+        211,
+        428
+      ],
+      "bounding_box": [
+        168,
+        380,
+        255,
+        476
+      ],
+      "last_detection_time": 1758548116.119709
+    },
+    {
+      "tracker_id": 1526,
+      "center_coordinates": [
+        248,
+        272
+      ],
+      "bounding_box": [
+        201,
+        236,
+        295,
+        307
+      ],
+      "last_detection_time": 1758548115.0610468
+    },
+    {
+      "tracker_id": 1316,
+      "center_coordinates": [
+        405,
+        212
+      ],
+      "bounding_box": [
+        357,
+        184,
+        454,
+        240
+      ],
+      "last_detection_time": 1758548115.3686714
+    },
+    {
+      "tracker_id": 1584,
+      "center_coordinates": [
+        116,
+        319
+      ],
+      "bounding_box": [
+        72,
+        275,
+        161,
+        364
+      ],
+      "last_detection_time": 1758548114.9108806
+    },
+    {
+      "tracker_id": 734,
+      "center_coordinates": [
+        312,
+        250
+      ],
+      "bounding_box": [
+        268,
+        197,
+        357,
+        303
+      ],
+      "last_detection_time": 1758548115.5160906
+    },
+    {
+      "tracker_id": 1293,
+      "center_coordinates": [
+        258,
+        292
+      ],
+      "bounding_box": [
+        206,
+        257,
+        310,
+        327
+      ],
+      "last_detection_time": 1758548115.3686738
+    },
+    {
+      "tracker_id": 1264,
+      "center_coordinates": [
+        162,
+        325
+      ],
+      "bounding_box": [
+        80,
+        281,
+        244,
+        370
+      ],
+      "last_detection_time": 1758548115.5160942
+    },
+    {
+      "tracker_id": 1545,
+      "center_coordinates": [
+        321,
+        250
+      ],
+      "bounding_box": [
+        267,
+        222,
+        375,
+        278
+      ],
+      "last_detection_time": 1758548115.9726074
+    },
+    {
+      "tracker_id": 1603,
+      "center_coordinates": [
+        145,
+        290
+      ],
+      "bounding_box": [
+        83,
+        231,
+        207,
+        348
+      ],
+      "last_detection_time": 1758548115.9726274
+    },
+    {
+      "tracker_id": 1583,
+      "center_coordinates": [
+        380,
+        215
+      ],
+      "bounding_box": [
+        321,
+        172,
+        438,
+        259
+      ],
+      "last_detection_time": 1758548116.4284985
+    },
+    {
+      "tracker_id": 1652,
+      "center_coordinates": [
+        341,
+        308
+      ],
+      "bounding_box": [
+        276,
+        266,
+        407,
+        349
+      ],
+      "last_detection_time": 1758548115.9726293
+    },
+    {
+      "tracker_id": 1491,
+      "center_coordinates": [
+        299,
+        435
+      ],
+      "bounding_box": [
+        236,
+        383,
+        362,
+        488
+      ],
+      "last_detection_time": 1758548115.3686764
+    },
+    {
+      "tracker_id": 1624,
+      "center_coordinates": [
+        266,
+        278
+      ],
+      "bounding_box": [
+        213,
+        242,
+        318,
+        314
+      ],
+      "last_detection_time": 1758548116.7210677
+    },
+    {
+      "tracker_id": 1542,
+      "center_coordinates": [
+        209,
+        291
+      ],
+      "bounding_box": [
+        158,
+        255,
+        260,
+        327
+      ],
+      "last_detection_time": 1758548117.0172527
+    },
+    {
+      "tracker_id": 1453,
+      "center_coordinates": [
+        137,
+        317
+      ],
+      "bounding_box": [
+        93,
+        272,
+        181,
+        362
+      ],
+      "last_detection_time": 1758548117.0172427
+    },
+    {
+      "tracker_id": 1692,
+      "center_coordinates": [
+        398,
+        216
+      ],
+      "bounding_box": [
+        344,
+        182,
+        452,
+        250
+      ],
+      "last_detection_time": 1758548116.8667395
+    },
+    {
+      "tracker_id": 1274,
+      "center_coordinates": [
+        444,
+        204
+      ],
+      "bounding_box": [
+        370,
+        168,
+        517,
+        240
+      ],
+      "last_detection_time": 1758548117.1666536
+    },
+    {
+      "tracker_id": 1631,
+      "center_coordinates": [
+        519,
+        446
+      ],
+      "bounding_box": [
+        465,
+        403,
+        573,
+        489
+      ],
+      "last_detection_time": 1758548115.5160694
+    },
+    {
+      "tracker_id": 1732,
+      "center_coordinates": [
+        577,
+        394
+      ],
+      "bounding_box": [
+        528,
+        351,
+        625,
+        438
+      ],
+      "last_detection_time": 1758548116.2822511
+    },
+    {
+      "tracker_id": 1668,
+      "center_coordinates": [
+        190,
+        286
+      ],
+      "bounding_box": [
+        146,
+        239,
+        234,
+        334
+      ],
+      "last_detection_time": 1758548117.7847497
+    },
+    {
+      "tracker_id": 1756,
+      "center_coordinates": [
+        288,
+        555
+      ],
+      "bounding_box": [
+        242,
+        520,
+        334,
+        591
+      ],
+      "last_detection_time": 1758548117.335555
+    },
+    {
+      "tracker_id": 1766,
+      "center_coordinates": [
+        421,
+        375
+      ],
+      "bounding_box": [
+        353,
+        326,
+        489,
+        425
+      ],
+      "last_detection_time": 1758548117.166677
+    },
+    {
+      "tracker_id": 1706,
+      "center_coordinates": [
+        354,
+        271
+      ],
+      "bounding_box": [
+        307,
+        238,
+        402,
+        304
+      ],
+      "last_detection_time": 1758548118.2391016
+    },
+    {
+      "tracker_id": 1774,
+      "center_coordinates": [
+        132,
+        307
+      ],
+      "bounding_box": [
+        82,
+        267,
+        182,
+        347
+      ],
+      "last_detection_time": 1758548117.7847407
+    },
+    {
+      "tracker_id": 1561,
+      "center_coordinates": [
+        203,
+        276
+      ],
+      "bounding_box": [
+        151,
+        224,
+        255,
+        328
+      ],
+      "last_detection_time": 1758548118.5485392
+    },
+    {
+      "tracker_id": 1646,
+      "center_coordinates": [
+        362,
+        228
+      ],
+      "bounding_box": [
+        309,
+        196,
+        415,
+        260
+      ],
+      "last_detection_time": 1758548119.1381054
+    },
+    {
+      "tracker_id": 1611,
+      "center_coordinates": [
+        102,
+        328
+      ],
+      "bounding_box": [
+        49,
+        287,
+        156,
+        369
+      ],
+      "last_detection_time": 1758548118.4039485
+    },
+    {
+      "tracker_id": 1676,
+      "center_coordinates": [
+        253,
+        470
+      ],
+      "bounding_box": [
+        202,
+        427,
+        303,
+        512
+      ],
+      "last_detection_time": 1758548117.6329293
+    },
+    {
+      "tracker_id": 1602,
+      "center_coordinates": [
+        577,
+        462
+      ],
+      "bounding_box": [
+        525,
+        420,
+        628,
+        504
+      ],
+      "last_detection_time": 1758548117.1666582
+    },
+    {
+      "tracker_id": 1789,
+      "center_coordinates": [
+        387,
+        385
+      ],
+      "bounding_box": [
+        328,
+        340,
+        446,
+        429
+      ],
+      "last_detection_time": 1758548118.0840316
+    },
+    {
+      "tracker_id": 1872,
+      "center_coordinates": [
+        289,
+        346
+      ],
+      "bounding_box": [
+        214,
+        296,
+        363,
+        395
+      ],
+      "last_detection_time": 1758548118.5485501
+    },
+    {
+      "tracker_id": 1654,
+      "center_coordinates": [
+        208,
+        297
+      ],
+      "bounding_box": [
+        160,
+        259,
+        256,
+        335
+      ],
+      "last_detection_time": 1758548119.5990684
+    },
+    {
+      "tracker_id": 1735,
+      "center_coordinates": [
+        333,
+        246
+      ],
+      "bounding_box": [
+        292,
+        210,
+        374,
+        283
+      ],
+      "last_detection_time": 1758548119.5990605
+    },
+    {
+      "tracker_id": 1484,
+      "center_coordinates": [
+        270,
+        267
+      ],
+      "bounding_box": [
+        222,
+        241,
+        318,
+        293
+      ],
+      "last_detection_time": 1758548119.5990744
+    },
+    {
+      "tracker_id": 1322,
+      "center_coordinates": [
+        143,
+        327
+      ],
+      "bounding_box": [
+        97,
+        283,
+        189,
+        372
+      ],
+      "last_detection_time": 1758548118.9859672
+    },
+    {
+      "tracker_id": 1564,
+      "center_coordinates": [
+        442,
+        294
+      ],
+      "bounding_box": [
+        400,
+        241,
+        484,
+        346
+      ],
+      "last_detection_time": 1758548119.7487903
+    },
+    {
+      "tracker_id": 1444,
+      "center_coordinates": [
+        236,
+        279
+      ],
+      "bounding_box": [
+        184,
+        246,
+        289,
+        312
+      ],
+      "last_detection_time": 1758548120.6451638
+    },
+    {
+      "tracker_id": 1945,
+      "center_coordinates": [
+        140,
+        369
+      ],
+      "bounding_box": [
+        84,
+        305,
+        197,
+        432
+      ],
+      "last_detection_time": 1758548119.894265
+    },
+    {
+      "tracker_id": 1942,
+      "center_coordinates": [
+        243,
+        296
+      ],
+      "bounding_box": [
+        197,
+        265,
+        289,
+        327
+      ],
+      "last_detection_time": 1758548119.8942618
+    },
+    {
+      "tracker_id": 1867,
+      "center_coordinates": [
+        673,
+        386
+      ],
+      "bounding_box": [
+        624,
+        342,
+        722,
+        430
+      ],
+      "last_detection_time": 1758548118.5485606
+    },
+    {
+      "tracker_id": 1717,
+      "center_coordinates": [
+        242,
+        451
+      ],
+      "bounding_box": [
+        177,
+        390,
+        306,
+        511
+      ],
+      "last_detection_time": 1758548119.5990713
+    },
+    {
+      "tracker_id": 1973,
+      "center_coordinates": [
+        621,
+        331
+      ],
+      "bounding_box": [
+        575,
+        293,
+        667,
+        369
+      ],
+      "last_detection_time": 1758548118.9859579
+    },
+    {
+      "tracker_id": 1976,
+      "center_coordinates": [
+        491,
+        267
+      ],
+      "bounding_box": [
+        450,
+        228,
+        532,
+        305
+      ],
+      "last_detection_time": 1758548119.1380942
+    },
+    {
+      "tracker_id": 1999,
+      "center_coordinates": [
+        577,
+        285
+      ],
+      "bounding_box": [
+        530,
+        248,
+        624,
+        322
+      ],
+      "last_detection_time": 1758548119.4528337
+    },
+    {
+      "tracker_id": 2014,
+      "center_coordinates": [
+        183,
+        296
+      ],
+      "bounding_box": [
+        137,
+        266,
+        230,
+        326
+      ],
+      "last_detection_time": 1758548121.3967106
+    },
+    {
+      "tracker_id": 1934,
+      "center_coordinates": [
+        190,
+        285
+      ],
+      "bounding_box": [
+        132,
+        248,
+        249,
+        323
+      ],
+      "last_detection_time": 1758548122.004512
+    },
+    {
+      "tracker_id": 1922,
+      "center_coordinates": [
+        252,
+        252
+      ],
+      "bounding_box": [
+        191,
+        204,
+        313,
+        300
+      ],
+      "last_detection_time": 1758548121.8570485
+    },
+    {
+      "tracker_id": 1847,
+      "center_coordinates": [
+        239,
+        274
+      ],
+      "bounding_box": [
+        193,
+        234,
+        285,
+        314
+      ],
+      "last_detection_time": 1758548122.2987368
+    },
+    {
+      "tracker_id": 2052,
+      "center_coordinates": [
+        186,
+        397
+      ],
+      "bounding_box": [
+        138,
+        351,
+        234,
+        443
+      ],
+      "last_detection_time": 1758548122.0045052
+    },
+    {
+      "tracker_id": 2071,
+      "center_coordinates": [
+        511,
+        505
+      ],
+      "bounding_box": [
+        466,
+        465,
+        557,
+        545
+      ],
+      "last_detection_time": 1758548120.7888749
+    },
+    {
+      "tracker_id": 1902,
+      "center_coordinates": [
+        182,
+        310
+      ],
+      "bounding_box": [
+        113,
+        268,
+        251,
+        351
+      ],
+      "last_detection_time": 1758548122.5962508
+    },
+    {
+      "tracker_id": 1965,
+      "center_coordinates": [
+        503,
+        456
+      ],
+      "bounding_box": [
+        440,
+        390,
+        566,
+        522
+      ],
+      "last_detection_time": 1758548121.2406838
+    },
+    {
+      "tracker_id": 2003,
+      "center_coordinates": [
+        333,
+        251
+      ],
+      "bounding_box": [
+        293,
+        213,
+        372,
+        289
+      ],
+      "last_detection_time": 1758548123.4791088
+    },
+    {
+      "tracker_id": 1991,
+      "center_coordinates": [
+        252,
+        411
+      ],
+      "bounding_box": [
+        193,
+        337,
+        312,
+        485
+      ],
+      "last_detection_time": 1758548122.7431564
+    },
+    {
+      "tracker_id": 2004,
+      "center_coordinates": [
+        213,
+        282
+      ],
+      "bounding_box": [
+        169,
+        240,
+        257,
+        324
+      ],
+      "last_detection_time": 1758548123.9202664
+    },
+    {
+      "tracker_id": 2036,
+      "center_coordinates": [
+        436,
+        534
+      ],
+      "bounding_box": [
+        385,
+        495,
+        487,
+        573
+      ],
+      "last_detection_time": 1758548122.2987401
+    },
+    {
+      "tracker_id": 2012,
+      "center_coordinates": [
+        323,
+        392
+      ],
+      "bounding_box": [
+        244,
+        344,
+        403,
+        440
+      ],
+      "last_detection_time": 1758548123.4790978
+    },
+    {
+      "tracker_id": 2191,
+      "center_coordinates": [
+        324,
+        275
+      ],
+      "bounding_box": [
+        275,
+        244,
+        373,
+        307
+      ],
+      "last_detection_time": 1758548123.920269
+    },
+    {
+      "tracker_id": 1632,
+      "center_coordinates": [
+        334,
+        360
+      ],
+      "bounding_box": [
+        290,
+        326,
+        378,
+        394
+      ],
+      "last_detection_time": 1758548123.7791083
+    },
+    {
+      "tracker_id": 1983,
+      "center_coordinates": [
+        279,
+        423
+      ],
+      "bounding_box": [
+        205,
+        386,
+        354,
+        459
+      ],
+      "last_detection_time": 1758548123.920258
+    },
+    {
+      "tracker_id": 972,
+      "center_coordinates": [
+        419,
+        450
+      ],
+      "bounding_box": [
+        340,
+        412,
+        499,
+        487
+      ],
+      "last_detection_time": 1758548123.9202638
+    },
+    {
+      "tracker_id": 2217,
+      "center_coordinates": [
+        384,
+        376
+      ],
+      "bounding_box": [
+        330,
+        328,
+        438,
+        424
+      ],
+      "last_detection_time": 1758548123.9202716
+    },
+    {
+      "tracker_id": 1696,
+      "center_coordinates": [
+        531,
+        461
+      ],
+      "bounding_box": [
+        481,
+        404,
+        580,
+        517
+      ],
+      "last_detection_time": 1758548123.9202614
+    }
+  ]
+}

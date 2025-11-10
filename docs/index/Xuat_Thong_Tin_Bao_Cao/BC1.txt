@@ -1,0 +1,20 @@
+==================================================
+BÁO CÁO PHÂN TÍCH KHOAI TÂY
+==================================================
+Thời gian: 2025-09-23 13:19:39
+
+Nguồn dữ liệu: Video: potato.mp4
+Chế độ xử lý: Đếm khoai tây
+
+THỐNG KÊ XỬ LÝ:
+- Tổng số đối tượng: 347
+- Frames đã xử lý: 291
+- Thời gian xử lý: 58.40 giây
+- FPS trung bình: 4.98
+
+THAM SỐ KỸ THUẬT:
+- Model: best1_DemKhoai1.pt
+- Confidence threshold: 0.50
+- IOU threshold: 0.50
+- Vùng đếm: 9 điểm
+- Kích thước khung hình: 1920x1080
