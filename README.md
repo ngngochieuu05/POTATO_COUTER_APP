@@ -7,10 +7,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-<div align="center">
-
-![Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=POTATO+COUNTER+DEMO)
-
 **🚀 Giải pháp AI cho ngành công nghiệp chế biến nông sản**
 
 [📖 Tài liệu](#-tài-liệu) • [⚡ Cài đặt](#-cài-đặt-nhanh) • [🎯 Tính năng](#-tính-năng-chính) • [📊 Kết quả](#-kết-quả-thực-nghiệm) • [🤝 Đóng góp](#-đóng-góp)
